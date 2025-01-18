@@ -1,0 +1,19 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "un bot Telegram simple qui permet de jouer à un mini jeu interactif: questions mathématiques aléatoires, 10 points pour chaque réponse correcte.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "Q&A"
+  ],
+  "author": "ikram",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
