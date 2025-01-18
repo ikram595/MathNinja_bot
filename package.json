@@ -9,11 +9,13 @@
   "keywords": [
     "telegram",
     "bot",
-    "Q&A"
+    "Q&A",
+    "math"
   ],
   "author": "ikram",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "node-telegram-bot-api": "^0.66.0"
   }
 }
